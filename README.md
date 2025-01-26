@@ -1,3 +1,3 @@
 # cpsc-131-test
 
-hello
+Hello this is a test for lab 00.
